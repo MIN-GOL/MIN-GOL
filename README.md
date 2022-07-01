@@ -1,2 +1,2 @@
 ![](https://github-readme-stats.vercel.app/api?username=MIN-GOL&theme=dark)
-![](http://antzuhl.cn:4000/get/@MIN-GOL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MIN-GOL)](https://github.com/MIN-GOL/github-readme-stats)
