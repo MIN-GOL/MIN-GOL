@@ -1,1 +1,1 @@
-![](https://github-readme-stats.vercel.app/api?username=MIN-GOL&theme=dark)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MIN-GOL&theme=dark)
